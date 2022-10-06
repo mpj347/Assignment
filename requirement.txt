@@ -1,3 +1,5 @@
 Initiating
 Adding
 status
+commit
+push
